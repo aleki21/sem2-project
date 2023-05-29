@@ -1,1 +1,1 @@
-# sem2-project
+# Real estate app
